@@ -9,7 +9,7 @@ def random_predict(number: int = 1) -> int:
     """Рандомно угадываем число
 
     Args:
-        number (int, optional): Загаданное число. Defaults to 1...............
+        number (int, optional): Загаданное число. Defaults to 1.
 
     Returns:
         int: Число попыток
@@ -49,6 +49,3 @@ if __name__ == "__main__":
     # RUN
     score_game(random_predict)
 
-    
-    
-print(2)
