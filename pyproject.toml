@@ -1,13 +1,7 @@
 [tool.poetry]
-<<<<<<< HEAD
-name = "install poetry"
-version = "0.1.0"
-description = ""
-=======
 name = "game"
 version = "0.1"
 description = "тестирование работы poetry"
->>>>>>> main
 authors = ["Dmitriy-Vilisov <vilisov.vdv@yandex.ru>"]
 license = "mit"
 readme = "README.md"
