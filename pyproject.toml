@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "install poetry"
+version = "0.1.0"
+description = ""
+authors = ["Dmitriy-Vilisov <vilisov.vdv@yandex.ru>"]
+license = "mit"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
